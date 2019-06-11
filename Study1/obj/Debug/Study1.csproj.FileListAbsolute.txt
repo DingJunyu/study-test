@@ -1,7 +1,0 @@
-C:\Users\gmb_10\source\repos\Study1\bin\Debug\Study1.exe.config
-C:\Users\gmb_10\source\repos\Study1\bin\Debug\Study1.exe
-C:\Users\gmb_10\source\repos\Study1\bin\Debug\Study1.pdb
-C:\Users\gmb_10\source\repos\Study1\obj\Debug\Study1.csprojAssemblyReference.cache
-C:\Users\gmb_10\source\repos\Study1\obj\Debug\Study1.csproj.CoreCompileInputs.cache
-C:\Users\gmb_10\source\repos\Study1\obj\Debug\Study1.exe
-C:\Users\gmb_10\source\repos\Study1\obj\Debug\Study1.pdb

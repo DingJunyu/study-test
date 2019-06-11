@@ -1,7 +1,0 @@
-C:\Users\gmb_10\source\repos\SeisekiHyou\bin\Debug\SeisekiHyou.exe.config
-C:\Users\gmb_10\source\repos\SeisekiHyou\bin\Debug\SeisekiHyou.exe
-C:\Users\gmb_10\source\repos\SeisekiHyou\bin\Debug\SeisekiHyou.pdb
-C:\Users\gmb_10\source\repos\SeisekiHyou\obj\Debug\SeisekiHyou.csprojAssemblyReference.cache
-C:\Users\gmb_10\source\repos\SeisekiHyou\obj\Debug\SeisekiHyou.csproj.CoreCompileInputs.cache
-C:\Users\gmb_10\source\repos\SeisekiHyou\obj\Debug\SeisekiHyou.exe
-C:\Users\gmb_10\source\repos\SeisekiHyou\obj\Debug\SeisekiHyou.pdb
