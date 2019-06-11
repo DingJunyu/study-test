@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+#folders
+.vs/
+Debug/
+Release/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +35,12 @@
 *.exe
 *.out
 *.app
+
+#log
+/ProjectWarshipbattle/Log.txt
+
+# No need
+~$��i�Љ�.docx
+~$作品紹介.docx
+ProjectWarshipbattle/Data/TopScore/TopScore.txt
+ProjectWarshipbattle/Data/TopScore/TopScore.txt
