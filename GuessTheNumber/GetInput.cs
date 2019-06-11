@@ -12,6 +12,7 @@ namespace GuessTheNumber
         private String temp = null;//数字の部分を保存する
         private int num;
 
+        //オーバーフロー対策
         public int getANum() {
             while (temp == null) {
 
