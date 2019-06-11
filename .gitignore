@@ -5,6 +5,8 @@
 .vs/
 Debug/
 Release/
+bin/
+obj/
 
 # Compiled Object files
 *.slo
